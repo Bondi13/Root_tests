@@ -1,0 +1,36 @@
+{
+  "tests": [
+    {
+      "premiumRooms": 3,
+      "economyRooms": 3,
+      "usagePremium": 3,
+      "revenuePremium": 738,
+      "usageEconomy": 3,
+      "revenueEconomy": 167
+    },
+    {
+      "premiumRooms": 7,
+      "economyRooms": 5,
+      "usagePremium": 6,
+      "revenuePremium": 1054,
+      "usageEconomy": 4,
+      "revenueEconomy": 189
+    },
+    {
+      "premiumRooms": 2,
+      "economyRooms": 7,
+      "usagePremium": 2,
+      "revenuePremium": 583,
+      "usageEconomy": 4,
+      "revenueEconomy": 189
+    },
+    {
+      "premiumRooms": 7,
+      "economyRooms": 1,
+      "usagePremium": 7,
+      "revenuePremium": 1153,
+      "usageEconomy": 1,
+      "revenueEconomy": 45
+    }
+  ]
+}
